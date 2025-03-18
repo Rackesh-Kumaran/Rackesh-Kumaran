@@ -5,7 +5,7 @@
 - 🤔 I’m looking for exciting opportunities to contribute, learn, and grow in the IT industry
 - 💬 Ask me about Tech
 - 📫 How to reach me: 
-<br/> [<img height="50" width="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rackeshkumaran03/)
+<br/> [<img height="50" width="70" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rackeshkumaran03/)
 - 😄 Pronouns: Techie
 ---
 ### code in 
