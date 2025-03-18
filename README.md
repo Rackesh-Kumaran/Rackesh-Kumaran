@@ -1,4 +1,4 @@
-## Hi there 👋 Hi, I'm Rackesh Kumaran, a passionate  Full-Stack Developer with a strong interest in web development and problem-solving. I have experience working with HTML, CSS, JavaScript, React, SQL, Java, and Spring Boot through a 6-month internship and personal projects.
+## Hi there 👋 Hi, I'm Rackesh Kumaran, a passionate  Full-Stack Developer
 ---
 - 🌱 I’m currently learning on DSA and Full Stack 
 - 👯 I’m looking to collaborate on Web Developement
